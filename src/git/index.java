@@ -12,11 +12,11 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.HashMap;
 
-public class Index {
+public class index {
 	//private boolean bool = false;
 	private HashMap<String, String> hm;
 	
-	public Index () throws IOException {
+	public index () throws IOException {
 //		File file = new File("/Users/asher/eclipse-workspace/Git Prereq");
 //		//creating the directory
 //		bool = file.mkdir();
